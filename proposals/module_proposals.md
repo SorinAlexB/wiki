@@ -10,7 +10,7 @@ A CRS running static analyzers (Semgrep, CodeQL, Flawfinder, cppcheck) in batch 
 
 ## CRS patch gen
 
-An LLM-based patch generation CRS that takes a crash plus root cause analysis (can be chained with the CRS static analysis), creates patches then verifies them using a sanitizier in a closed loop.
+An LLM-based patch generation CRS that takes a crash plus root cause analysis (can be chained with the CRS static analysis), creates patches then verifies them using a sanitizer in a closed loop.
 
 ## CRS CVE correlator
 
